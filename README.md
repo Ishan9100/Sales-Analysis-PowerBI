@@ -41,6 +41,23 @@ The dataset consists of two types of tables:
 ## Power BI Visualizations
 Once the data is loaded and transformed, the following visualizations will be created to meet the business needs:
 
-1. **Sales Dashboard**: Display total sales, internet sales trends over time, and product category performance.
-2. **Customer Segmentation**: Visualize customer demographics such as age, location, and purchase behavior.
-3. **Product Analysis**: Compare sales performance across product categories and individual SKUs.
+### 🧾 Sales Dashboard
+Displays total sales, internet sales trends over time, and product category performance.
+
+![Sales Dashboard](sales.png)
+
+---
+
+### 👥 Customer Segmentation
+Visualizes customer demographics such as age, location, and purchase behavior.
+
+![Customer Dashboard](cust.png)
+
+---
+
+### 📦 Product Analysis
+Compares sales performance across product categories and individual SKUs.
+
+![Product Analysis](product.png)
+
+---
